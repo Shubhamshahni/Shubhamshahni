@@ -8,8 +8,7 @@ I love **learning and exploring new technologies**, especially anything that spa
 - 🌱 **Currently Learning:** Frontend Development (HTML, CSS, JavaScript, and beyond!)
 - 🤝 **Open to Collaborations:** Always up for teaming up to build something awesome or solve a problem!  
 - 📬 **Reach Me At:** [shubhamshahni292@gmail.com]  (Email to: shubhamshahni292@hotmail.com)  
-- 📝 **Fun Fact:** I know you're here because you're awesome! And here's the fun part—📝 **Fun Fact:** I’m a tech enthusiast who loves exploring new
--  technologies—always curious about what’s next and how it can shape the future! 🚀 
+- 📝 **Fun Fact:** I know you're here because you're awesome! And here's the fun part— I’m a tech enthusiast who loves exploring new technologies—always curious about what’s next and how it can shape the future! 🚀 
 
 ### ✨ Pronouns & Vibes
 - **Pronouns:** He/Explorer 🧭  
