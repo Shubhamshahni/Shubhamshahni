@@ -100,8 +100,9 @@ A terminal-based AI assistant that actually remembers what you just told it.
 ### 📈 GitHub Stats
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0F172A&title_color=06B6D4&text_color=E8EEF5&icon_color=F59E0B&border_color=0F172A&count_private=true" alt="GitHub Stats"/>
-<img height="180em" src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0F172A&stroke=0F172A&ring=06B6D4&fire=F59E0B&currStreakLabel=06B6D4&sideLabels=E8EEF5&currStreakNum=E8EEF5&sideNums=E8EEF5&dates=64748B" alt="GitHub Streak"/>
+
+<img height="180em" src="https://streak-stats.demolab.com/?user=shubhamshahni&hide_border=true&background=0F172A&stroke=0F172A&ring=06B6D4&fire=F59E0B&currStreakLabel=06B6D4&sideLabels=E8EEF5&currStreakNum=E8EEF5&sideNums=E8EEF5&dates=64748B" alt="GitHub Streak"/>
+
 </div>
 
 ---
