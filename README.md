@@ -1,125 +1,596 @@
-<!--
-  BEFORE YOU PUBLISH — replace these placeholders (find & replace works great):
-  • YOUR_GITHUB_USERNAME     → appears in the stats/streak/visitor-count widgets and GitHub badge
-  • YOUR_LINKEDIN_USERNAME   → your LinkedIn public URL slug
-  • YOUR_CODEFORCES_HANDLE   → your Codeforces handle
-  • The three "View Repository" links under Featured Projects → your real repo URLs
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
 
-  HOW TO USE THIS FILE:
-  GitHub only turns a README into a profile page if it lives in a repo named
-  EXACTLY like your username (e.g. github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME).
-  Create that repo (public, with a README), then replace its README.md with this file.
--->
+<!-- ║                 SHUBHAM SHAHNI / README                     ║ -->
+
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0891B2&height=200&section=header&text=Shubham%20Shahni&fontSize=44&fontColor=E8EEF5&fontAlignY=36&animation=fadeIn&desc=Data%20Analyst%20%7C%20Python%20Developer%20%7C%20Data%20Science&descAlignY=53&descSize=16&descColor=67E8F9" width="100%" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,40:0F172A,75:111827,100:0B1120&text=SHUBHAM%20SHAHNI&fontColor=F8FAFC&fontSize=52&fontAlignY=34&desc=%E2%96%B6%20DATA%20SCIENCE%20%7C%20AI%20%7C%20PYTHON&descColor=22D3EE&descSize=18&descAlignY=56&animation=fadeIn" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=06B6D4&center=true&vCenter=true&width=650&lines=Turning+messy+data+into+clear+decisions;Building+end-to-end+ML+%26+data+pipelines;Python+%7C+Pandas+%7C+NumPy+%7C+SQL+%7C+PyTorch;Data+Analyst+Intern+%40+UPPCL" alt="Typing SVG" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=800&lines=%24+initializing+shubham.exe...;%24+loading+data_science.modules...;%24+Python+%7C+AI%2FML+%7C+Data+Analytics;%24+turning+data+into+intelligence;%24+building+AI-powered+systems;%24+status%3A+always+learning..." />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING-22D3EE?style=for-the-badge&labelColor=020617&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOCUS-DATA%20SCIENCE-38BDF8?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/BASE-PYTHON-818CF8?style=for-the-badge&labelColor=020617&logo=python&logoColor=white"/>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+ ███████╗██╗  ██╗██╗   ██╗██████╗ ██╗  ██╗ █████╗ ███╗   ███╗
+ ██╔════╝██║  ██║██║   ██║██╔══██╗██║  ██║██╔══██╗████╗ ████║
+ ███████╗███████║██║   ██║██████╔╝███████║███████║██╔████╔██║
+ ╚════██║██╔══██║██║   ██║██╔══██╗██╔══██║██╔══██║██║╚██╔╝██║
+ ███████║██║  ██║╚██████╔╝██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║
+ ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
+
+                   D A T A  •  A I  •  P Y T H O N
+```
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+## `~/about/shubham`
+
+```text
+┌────────────────────────────────────────────┐
+│ USER       : Shubham Shahni                │
+│ ROLE       : IT Student / Data Enthusiast  │
+│ DOMAIN     : Data Science + AI             │
+│ LANGUAGE   : Python                        │
+│ CURRENTLY  : Learning • Building • Testing │
+│ MISSION    : Data → Intelligence           │
+└────────────────────────────────────────────┘
+```
+
+I'm a **B.Tech Information Technology student** exploring the intersection of **Data Science, Artificial Intelligence and software development**.
+
+I enjoy taking a problem from:
+
+`RAW DATA → CLEANING → ANALYSIS → INTELLIGENCE → PRODUCT`
+
+My current goal is simple:
+
+> **Build enough real systems that "learning" eventually stops being an excuse and becomes engineering.**
+
+</td>
+
+<td width="38%" valign="top">
+
+```text
+        ╭──────────────────────╮
+        │   SYSTEM MONITOR     │
+        ├──────────────────────┤
+        │                      │
+        │  ● PYTHON      ████  │
+        │  ● DATA        ████  │
+        │  ● AI/ML       ███░  │
+        │  ● DL          ██░░  │
+        │  ● PROJECTS    ████  │
+        │  ● CURIOSITY   ████  │
+        │                      │
+        ├──────────────────────┤
+        │  UPTIME: ∞           │
+        │  STATUS: BUILDING    │
+        ╰──────────────────────╯
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+# `01` // THE DATA LAB
+
+<div align="center">
+
+```text
+                         ┌───────────────────┐
+                         │      PROBLEM      │
+                         └─────────┬─────────┘
+                                   │
+                                   ▼
+                         ┌───────────────────┐
+                         │       DATA       │
+                         └─────────┬─────────┘
+                                   │
+                         ┌─────────▼─────────┐
+                         │      CLEAN        │
+                         │   Pandas / NumPy  │
+                         └─────────┬─────────┘
+                                   │
+                                   ▼
+                    ┌──────────────────────────────┐
+                    │             EDA              │
+                    │  Trends • Patterns • KPIs   │
+                    │          Anomalies            │
+                    └──────────────┬───────────────┘
+                                   │
+                                   ▼
+                         ┌───────────────────┐
+                         │   VISUALIZE       │
+                         │ Matplotlib/Seaborn │
+                         └─────────┬─────────┘
+                                   │
+                                   ▼
+                    ┌──────────────────────────────┐
+                    │        MACHINE LEARNING      │
+                    │            ↓                 │
+                    │        ARTIFICIAL            │
+                    │        INTELLIGENCE          │
+                    └──────────────┬───────────────┘
+                                   │
+                                   ▼
+                         ┌───────────────────┐
+                         │  REAL-WORLD APP   │
+                         └───────────────────┘
+```
+
+</div>
+
+---
+
+# `02` // TECH STACK
+
+<div align="center">
+
+### `PYTHON / DATA`
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="55"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+<br><br>
+
+### `AI / MACHINE LEARNING`
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge"/>
+
+<br><br>
+
+### `ENGINEERING`
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,mysql&theme=dark" height="52"/>
+
+<br><br>
+
+### `WEB`
+
+<img src="https://skillicons.dev/icons?i=html,css,js,flask&theme=dark" height="52"/>
+
+</div>
+
+---
+
+# `03` // EXPERIENCE
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                     DATA ANALYST INTERN                     ║
+║                                                              ║
+║                    U.P.P.C.L. • 2026                        ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<table>
+<tr>
+<td width="20%" align="center">
+
+### `01`
+
+📥
+
+**RAW DATA**
+
+</td>
+
+<td width="20%" align="center">
+
+### `02`
+
+🧹
+
+**CLEANING**
+
+</td>
+
+<td width="20%" align="center">
+
+### `03`
+
+🔍
+
+**EDA**
+
+</td>
+
+<td width="20%" align="center">
+
+### `04`
+
+📊
+
+**VISUALIZATION**
+
+</td>
+
+<td width="20%" align="center">
+
+### `05`
+
+💡
+
+**INSIGHTS**
+
+</td>
+</tr>
+</table>
+
+**June 2026 → July 2026 · Shakti Bhawan, Lucknow**
+
+Worked with real-world MVVNL operational datasets, using Python to transform raw records into structured datasets and analytical insights.
+
+`Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+**Focus:** data preprocessing · missing values · transformation · EDA · trends · anomalies · KPIs · reporting
+
+---
+
+# `04` // PROJECT ARCHITECTURE
+
+## 🎬 `VIDSNAP AI`
+
+<div align="center">
+
+```text
+                 VIDSNAP AI
+                     │
+          ┌──────────┴──────────┐
+          │                     │
+       IMAGES                  TEXT
+          │                     │
+          └──────────┬──────────┘
+                     ▼
+             ┌───────────────┐
+             │  AI PIPELINE  │
+             └───────┬───────┘
+                     │
+          ┌──────────┴──────────┐
+          ▼                     ▼
+     ELEVENLABS              FFmpeg
+     AI VOICE               PROCESSING
+          │                     │
+          └──────────┬──────────┘
+                     ▼
+              AUDIO / VIDEO
+                  SYNC
+                     │
+                     ▼
+             ┌───────────────┐
+             │ 1080 × 1920   │
+             │    VIDEO      │
+             └───────┬───────┘
+                     ▼
+              VERCEL BLOB
+                     │
+                     ▼
+                🚀 OUTPUT
+```
+
+</div>
+
+> An AI-powered short-form video generation platform that turns user-provided images and text into automated vertical videos with AI-generated voiceovers.
+
+**Pipeline:** `Input → TTS → Sync → Render → Storage → Output`
+
+**Stack:** `Python` `ElevenLabs` `FFmpeg` `Vercel Blob`
+
+---
+
+## 📰 `NEWSLOOM`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+```text
+        USER
+         │
+         ▼
+    ┌──────────┐
+    │ SEARCH   │
+    └────┬─────┘
+         │
+         ▼
+    ┌──────────┐
+    │ NEWS API │
+    └────┬─────┘
+         │
+         ▼
+    ┌──────────┐
+    │ PROCESS  │
+    └────┬─────┘
+         │
+         ▼
+    ┌──────────┐
+    │  FILTER  │
+    └────┬─────┘
+         │
+         ▼
+    ┌──────────┐
+    │   WEB    │
+    └──────────┘
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### Real-Time News Platform
+
+A Flask-based news aggregation platform integrating the **NewsAPI REST API**.
+
+**Features**
+
+* 🔎 Keyword search
+* 🗂️ Categories
+* 🌐 REST API
+* ⚙️ Server-side processing
+* 🛡️ Error handling
+* 📱 Responsive interface
+
+**Stack**
+
+`Python` · `Flask` · `NewsAPI` · `Jinja2`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤖 `LISA`
+
+<div align="center">
+
+```text
+                  ┌───────────────┐
+                  │     USER      │
+                  └───────┬───────┘
+                          │
+                          ▼
+                 ┌─────────────────┐
+                 │      LISA       │
+                 │  AI ASSISTANT   │
+                 └────────┬────────┘
+                          │
+              ┌───────────┼───────────┐
+              ▼           ▼           ▼
+          CONTEXT      MULTI-TURN   MODEL
+         MANAGEMENT    CHAT         SELECTOR
+              │           │           │
+              └───────────┼───────────┘
+                          ▼
+                   ┌─────────────┐
+                   │ GEMINI API  │
+                   └─────────────┘
+```
+
+</div>
+
+**Python-based terminal virtual assistant** with multi-turn conversations, context management, multi-model selection and secure environment-variable based API-key management.
+
+---
+
+# `05` // SKILL CONSTELLATION
+
+<div align="center">
+
+```text
+                              ┌─────────────┐
+                              │     AI      │
+                              └──────┬──────┘
+                                     │
+                   ┌─────────────────┼─────────────────┐
+                   │                 │                 │
+                   ▼                 ▼                 ▼
+              PyTorch          Hugging Face       Gemini API
+                   │                 │                 │
+                   └─────────────────┼─────────────────┘
+                                     │
+                                     ▼
+                              ┌─────────────┐
+                              │    DATA     │
+                              └──────┬──────┘
+                                     │
+                 ┌───────────────────┼──────────────────┐
+                 │                   │                  │
+                 ▼                   ▼                  ▼
+               NumPy              Pandas            Seaborn
+                 │                   │                  │
+                 └───────────────────┼──────────────────┘
+                                     │
+                                     ▼
+                              ┌─────────────┐
+                              │   PYTHON    │
+                              └──────┬──────┘
+                                     │
+                         ┌───────────┴───────────┐
+                         ▼                       ▼
+                    SOFTWARE                 PRODUCTS
+                    ENGINEERING               / AI APPS
+```
+
+</div>
+
+---
+
+# `06` // GITHUB TELEMETRY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shubhamshahni&show_icons=true&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=E2E8F0&icon_color=F59E0B&ring_color=22D3EE&count_private=true" height="185"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamshahni&layout=compact&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=E2E8F0" height="185"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=shubhamshahni&theme=dark&hide_border=true&background=020617&ring=22D3EE&fire=F59E0B&currStreakLabel=E2E8F0&sideLabels=94A3B8&dates=64748B" />
+
+</div>
+
+---
+
+# `07` // CONTRIBUTION MATRIX
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamshahni&bg_color=020617&color=E2E8F0&line=22D3EE&point=F59E0B&area_color=0E7490&area=true&hide_border=true&custom_title=Shubham's%20Contribution%20Matrix" width="95%"/>
+
+</div>
+
+---
+
+# `08` // SNAKE PROTOCOL 🐍
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/shubhamshahni/shubhamshahni/output/github-contribution-grid-snake-dark.svg" width="95%" />
+
+</div>
+
+> `STATUS: consuming contributions...`
+
+---
+
+# `09` // CURRENT MISSION
+
+<div align="center">
+
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                     LEARNING PROTOCOL                        │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│   PYTHON                                                     │
+│      │                                                       │
+│      ├──────► NUMPY / PANDAS                                │
+│      │                                                       │
+│      ├──────► DATA CLEANING / EDA                           │
+│      │                                                       │
+│      ├──────► STATISTICS                                    │
+│      │                                                       │
+│      ├──────► MACHINE LEARNING                              │
+│      │                                                       │
+│      ├──────► DEEP LEARNING                                 │
+│      │                                                       │
+│      ├──────► GENERATIVE AI                                 │
+│      │                                                       │
+│      └──────► AI-POWERED PRODUCTS                           │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
+# `10` // THE LONG GAME
+
+<div align="center">
+
+```text
+       ┌─────────────┐
+       │   LEARN     │
+       └──────┬──────┘
+              │
+              ▼
+       ┌─────────────┐
+       │   BUILD     │
+       └──────┬──────┘
+              │
+              ▼
+       ┌─────────────┐
+       │   BREAK     │
+       └──────┬──────┘
+              │
+              ▼
+       ┌─────────────┐
+       │   DEBUG     │
+       └──────┬──────┘
+              │
+              ▼
+       ┌─────────────┐
+       │   LEARN     │
+       └──────┬──────┘
+              │
+              └───────────────► REPEAT
+```
+
+### `Don't just train models. Understand the system around them.`
+
+</div>
+
+---
+
+# `11` // CONNECT
+
+<div align="center">
+
+<a href="https://github.com/shubhamshahni">
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/>
+<a href="mailto:shubhamshahni292@gmail.com">
+<img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
 
-<a href="https://www.linkedin.com/in/shubham-shahni-1654082ab/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:shubhamshahni292@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://codeforces.com/profile/Shubham.me"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
-<a href="https://github.com/Shubhamshahni"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<br><br>
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=shubhamshahni&style=for-the-badge&color=22D3EE&labelColor=020617&label=PROFILE+VIEWS"/>
 
----
+<br><br>
 
-### 🧑‍💻 About Me
-
-- 🎓 Final-year **B.Tech (Information Technology)** student @ Samrat Ashok Rajkiya Engineering College, Mirzapur — Class of 2027
-- 📊 **Data Analyst Intern** @ UPPCL, working hands-on with real power-distribution data
-- 🔭 I like finishing things — an AI video pipeline, a live news aggregator, and an LLM-powered assistant, all built end-to-end and shipped
-- 🧰 Comfortable across the full data workflow: clean → explore → visualize → model → deploy
-- 🌱 Currently going deeper into applied ML with **PyTorch** and **Hugging Face**
-- 💬 Ask me about Pandas, EDA, or why my row count just tripled for no reason — also find me solving problems on Codeforces
-
----
-
-### 💼 Currently
-
-🔹 **Data Analyst Intern** @ Uttar Pradesh Power Corporation Limited (UPPCL) — Shakti Bhawan, Lucknow
-Cleaning and structuring large-scale MVVNL operational datasets, running EDA to surface trends and anomalies, and building Matplotlib/Seaborn dashboards that turn raw utility records into decisions.
-
-📌 **Open to** Data Analyst / Data Science roles and internships — feel free to reach out!
-
----
-
-### 🛠️ Tech Stack
-
-**Core Stack**
-
-<img src="https://skillicons.dev/icons?i=py,c,cpp,pytorch,flask,mysql,git,github,docker,vscode,html,css,js&theme=dark" alt="core stack icons"/>
-
-**Data Science, ML & AI**
-
-![NumPy](https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=06B6D4)
-![Pandas](https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0F172A?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-0F172A?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-0F172A?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-0F172A?style=for-the-badge&logo=ollama&logoColor=06B6D4)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-0F172A?style=for-the-badge)
-
----
-
-### 🚀 Featured Projects
-
-#### 🎬 [VidSnap AI](https://github.com/Shubhamshahni/VidSnapAI)
-Turns a folder of images and a script into a fully rendered, voiced-over short-form video — no editing software required.
-- Automated pipeline: image sequencing → AI voiceover (ElevenLabs) → video composition (FFmpeg) → cloud delivery (Vercel Blob)
-- Outputs ready-to-post 1080×1920 vertical video end-to-end through a single web interface
-
-![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=06B6D4) ![FFmpeg](https://img.shields.io/badge/FFmpeg-0F172A?style=flat-square) ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-0F172A?style=flat-square) ![Vercel Blob](https://img.shields.io/badge/Vercel%20Blob-0F172A?style=flat-square&logo=vercel&logoColor=06B6D4)
-
-<br/>
-
-#### 📰 [NEWSLoom](https://github.com/Shubhamshahni/NEWSLoom)
-A full-stack Flask news aggregator that pulls live headlines and lets users filter by interest, not algorithm.
-- Real-time NewsAPI integration with server-side request handling, error management, and Jinja2 templating
-- Dynamic search and category-based browsing over live news content
-
-![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=06B6D4) ![Flask](https://img.shields.io/badge/Flask-0F172A?style=flat-square&logo=flask&logoColor=06B6D4) ![NewsAPI](https://img.shields.io/badge/NewsAPI-0F172A?style=flat-square) ![Jinja2](https://img.shields.io/badge/Jinja2-0F172A?style=flat-square)
-
-<br/>
-
-#### 🤖 [Lisa — Virtual Assistant](https://github.com/Shubhamshahni/lisa-virtual-assistant)
-A terminal-based AI assistant that actually remembers what you just told it.
-- Multi-turn conversation context management for coherent, context-aware responses
-- Flexible multi-model selection via the Gemini API, with credentials kept out of source control using environment variables
-
-![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=06B6D4) ![Gemini API](https://img.shields.io/badge/Gemini%20API-0F172A?style=flat-square) ![CLI](https://img.shields.io/badge/CLI-0F172A?style=flat-square)
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://streak-stats.demolab.com/?user=shubhamshahni&hide_border=true&background=0F172A&stroke=0F172A&ring=06B6D4&fire=F59E0B&currStreakLabel=06B6D4&sideLabels=E8EEF5&currStreakNum=E8EEF5&sideNums=E8EEF5&dates=64748B" alt="GitHub Streak"/>
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║              DATA  →  INTELLIGENCE  →  IMPACT               ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,50:0F172A,100:111827" width="100%"/>
 
-### 🤝 Let's Connect
-
-<div align="center">
-
-Always happy to talk data, Python, or that one bug that took six hours to find.
-
-<a href="https://www.linkedin.com/in/shubham-shahni-1654082ab/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:shubhamshahni292@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://codeforces.com/profile/Shubham.me"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="profile views"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0891B2&height=120&section=footer" width="100%" alt="footer banner"/>
-
-</div>
+<!--
+██████████████████████████████████████████████████████████████
+                    END OF TRANSMISSION
+██████████████████████████████████████████████████████████████
+-->
